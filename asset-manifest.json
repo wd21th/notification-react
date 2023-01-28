@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.813fc2de.js",
-    "index.html": "/index.html",
-    "main.813fc2de.js.map": "/static/js/main.813fc2de.js.map"
+    "main.js": "/notification-react/static/js/main.813fc2de.js",
+    "index.html": "/notification-react/index.html",
+    "main.813fc2de.js.map": "/notification-react/static/js/main.813fc2de.js.map"
   },
   "entrypoints": [
     "static/js/main.813fc2de.js"
